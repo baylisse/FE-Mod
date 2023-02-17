@@ -1,12 +1,12 @@
 
 # Front-End Module
 
-|Week|Date|Topic|Recording|Materials|
-|-----|-----|---------------------|----------|----------|
-|1|Thu, Dec 22|CSS Frameworks|[zoom]()(Passcode: )|[demo](/fe-mod/wk1-css-frameworks/demo/)|
-|2|Fri, Jan 6|React Class Components|[zoom]()(Passcode: )|[demo]()|
-|3|Fri, Jan 13|React Router|[workshop zoom]()(Passcode: )|[demo]()|
-|4|Fri, Jan 20|React Context|[zoom]()(Passcode: )|[demo]()|
+|Week|Topic|Recording|Materials|
+|-----|---------------------|----------|----------|
+|1|CSS Frameworks|[zoom](https://multiverse-io.zoom.us/rec/share/pFWOQDafm3v3mN1Wps8vi8CbxtXSVPB-QAzsPFSv5S2kgx2F0JKMEbJY9kXpteEo.4ddDb-4PyCXDyVKv)(Passcode: 30mQrA@4)|[demo](/fe-mod/wk1-css-frameworks/demo/)|
+|2|React Class Components|[zoom]()(Passcode: )|[demo]()|
+|3|React Router|[zoom]()(Passcode: )|[demo]()|
+|4|React Context|[zoom]()(Passcode: )|[demo]()|
 
 
 ## Week 1 (Fri, Feb 17):
