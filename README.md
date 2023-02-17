@@ -1,13 +1,12 @@
-![Image](/images/banner.png "Multiverse banner")
 
 # Front-End Module
 
 |Week|Date|Topic|Recording|Materials|
 |-----|-----|---------------------|----------|----------|
-|1|Thu, Dec 22|CSS Frameworks|[zoom](https://multiverse-io.zoom.us/rec/share/RVE5c8WKeUt5SvPZlMIjnLJlUsTyF7fiYxeRQ-mxp2Zuza4mbx6IwZZxX1kyi4TO.Eii39rAKtTeiPJ1L)(Passcode: .wb^2STH)|[demo](/front-end/01-css-frameworks/demo/)|
-|2|Fri, Jan 6|React Class Components|[zoom](https://multiverse-io.zoom.us/rec/share/OBrlju6jt_B4tPDW8osOc0cuhBdJQQURbWGjUHeXkgzlV0Zsi9yhm5OiEfygj_4f.jRxJk680htnLMv8O)(Passcode: DRNc=s1=)|[demo](/front-end/02-class-components/demo/)|
-|3|Fri, Jan 13|React Router|[workshop zoom](https://multiverse-io.zoom.us/rec/play/NY6eCkIH4INMWAFcOAAkkTb8rExKWANZkHaTeBH_Txo3dCJHcfOnbQAj6jqY7xdA_d-8nAvOIrz4ObC6.3fs88C5uOU5ESugU?startTime=1673628357000)(Passcode: 6Jp6@$KB) and [office hours zoom re: useNavigate and Outlet](https://multiverse-io.zoom.us/rec/share/d_YIKLCWXYP-ikbaCEtsO50BRD3X0yid38PXbu96q6uhlgxiR0QypIKl0-zJqLN4.CN8_8jthmOyc3dtT?startTime=1673633079000)(Passcode: 6Jp6@$KB)|[demo](/front-end/03-react-router/demo/)|
-|4|Fri, Jan 20|React Context|[zoom](https://multiverse-io.zoom.us/rec/share/P4FerBEnWUbM98N9NqZM9kSUrtNNHkUgVv5L9Z2BmI3AyC3EjytCcgKjlO4ZF6Nz.7MOK5h_TcCV2h_fO)(Passcode: &S&VSh0y)|[demo](/front-end/04-react-context/demo)|
+|1|Thu, Dec 22|CSS Frameworks|[zoom]()(Passcode: )|[demo](/fe-mod/wk1-css-frameworks/demo/)|
+|2|Fri, Jan 6|React Class Components|[zoom]()(Passcode: )|[demo]()|
+|3|Fri, Jan 13|React Router|[workshop zoom]()(Passcode: )|[demo]()|
+|4|Fri, Jan 20|React Context|[zoom]()(Passcode: )|[demo]()|
 
 
 ## Week 1 (Fri, Feb 17):
