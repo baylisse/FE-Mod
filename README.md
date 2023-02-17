@@ -3,7 +3,7 @@
 
 |Week|Topic|Recording|Materials|
 |-----|---------------------|----------|----------|
-|1|CSS Frameworks|[zoom](https://multiverse-io.zoom.us/rec/share/pFWOQDafm3v3mN1Wps8vi8CbxtXSVPB-QAzsPFSv5S2kgx2F0JKMEbJY9kXpteEo.4ddDb-4PyCXDyVKv)(Passcode: 30mQrA@4)|[demo](/fe-mod/wk1-css-frameworks/demo/)|
+|1|CSS Frameworks|[zoom](https://multiverse-io.zoom.us/rec/share/pFWOQDafm3v3mN1Wps8vi8CbxtXSVPB-QAzsPFSv5S2kgx2F0JKMEbJY9kXpteEo.4ddDb-4PyCXDyVKv)(Passcode: 30mQrA@4)|[demo](wk1-css-frameworks/demo/)|
 |2|React Class Components|[zoom]()(Passcode: )|[demo]()|
 |3|React Router|[zoom]()(Passcode: )|[demo]()|
 |4|React Context|[zoom]()(Passcode: )|[demo]()|
